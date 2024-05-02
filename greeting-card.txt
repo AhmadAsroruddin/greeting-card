@@ -59,7 +59,7 @@
     <div class="satisfy-regular">
         <span>.: Selamat Hari Raya Idul Fitri :.</span>
         <br>
-        <span>Mohon maaf lahir dan batin &#x2764;</span>
+        <span>Mohon Maaf Lahir Batin &#x2764;</span>
     </div>
 </body>
 </html>
